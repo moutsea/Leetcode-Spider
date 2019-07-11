@@ -4,7 +4,7 @@ A tool to crawl all the problems in leetcode and store in markdown files.
 ## How to use
 Modify all the filepaths in code, using pip to install PIL, request_toolbelt, bs, requests and html2text modules.
 
-### Smaple
+### Sample
 1096-brace-expansion-ii
 
 ### Comment
